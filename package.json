@@ -1,0 +1,19 @@
+{
+  "name": "xsf",
+  "version": "1.0.0",
+  "description": "xlsx-style fix",
+  "main": "xlsx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leiyu0932/xsf.git"
+  },
+  "author": "leiyu0932",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leiyu0932/xsf/issues"
+  },
+  "homepage": "https://github.com/leiyu0932/xsf#readme"
+}
