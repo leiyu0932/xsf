@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/leiyu0932/xsf/issues"
   },
-  "homepage": "https://github.com/leiyu0932/xsf#readme"
+  "homepage": "https://github.com/leiyu0932/xsf#readme",
+  "dependencies": {
+    "jszip": "^3.2.1"
+  }
 }
