@@ -1,6 +1,6 @@
 {
   "name": "xsf",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "xlsx-style fix",
   "main": "xlsx.js",
   "scripts": {
